@@ -32,17 +32,17 @@ I'm actively looking for a **Java / Backend Developer role in Berlin** (full tim
 
 ---
 
-## 📍 About me
+## About me
 
-- 📍 Based in Berlin, Germany
-- 🛂 Arbeitserlaubnis holder — no visa sponsorship required
-- 🇩🇪 German: B1 (actively improving, completed VHS Berlin course)
-- 🇬🇧 English: Fluent
-- 💼 Open to work — available immediately
+- Based in Berlin, Germany
+- Arbeitserlaubnis holder (no visa sponsorship required)
+- German: B1 (actively improving, completed VHS Berlin course)
+- English: Fluent
+- Open to work (available immediately)
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nakhat--parveen-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/nakhat-parveen-915483129)
 [![Email](https://img.shields.io/badge/Email-nakhat09@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nakhat09@gmail.com)
