@@ -6,7 +6,7 @@ I'm actively looking for a **Java / Backend Developer role in Berlin** (full tim
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Java, SQL
 
@@ -22,7 +22,7 @@ I'm actively looking for a **Java / Backend Developer role in Berlin** (full tim
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
