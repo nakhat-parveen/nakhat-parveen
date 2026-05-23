@@ -29,6 +29,7 @@ I'm actively looking for a **Java / Backend Developer role in Berlin** (full tim
 | [BankingApplication](https://github.com/nakhat-parveen/BankingApplication) | Core banking system with account management and a GPay style payment microservice | Java, Spring Boot, Microservices |
 | [microservices-demo](https://github.com/nakhat-parveen/microservices-demo) | Multi service architecture with API Gateway, Eureka, Spring Security and Resilience4j | Java, Spring Boot, Eureka, Resilience4j |
 | [Train Ticket Booking App](https://github.com/nakhat-parveen/TrainTicketBookingApp) | Train Ticket Booking Application using OOP and advance Java features | Java, JSON |
+| [single-and-multi-threaded-web-servers ](https://github.com/nakhat-parveen/single-and-multi-threaded-web-servers) | Web Servers using Java and Thread Pool | Java, Thread Pool |
 
 ---
 
