@@ -37,7 +37,7 @@ I'm actively looking for a **Java / Backend Developer role in Berlin** (full tim
 
 - Based in Berlin, Germany
 - Arbeitserlaubnis holder (no visa sponsorship required)
-- German: B1 (actively improving, completed VHS Berlin course)
+- German: B1 (actively improving, currently learning B2)
 - English: Fluent
 - Open to work (available immediately)
 
